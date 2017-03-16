@@ -1,0 +1,2 @@
+Aby wywołać segmentation fault odwołałam się do pola w NULLU. Aby zdebuggować użyłam gdb, ustawiłam ulited -c unlimited. Po wykonaniu programu zapi-
+sał się plik core. 

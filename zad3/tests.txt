@@ -1,0 +1,303 @@
+
+BIBLIOTEKA STATYCZNA
+Tworzenie 1000 elementowego drzewa
+system time 000000000 mikrosekund
+user time 000020000 mikrosekund
+real time 000022972 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000016 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000000 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000000 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Tworzenie listy 100000 elementowej
+system time 000004000 mikrosekund
+user time 000572000 mikrosekund
+real time 000576577 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000107 mikrosekund
+
+Usuwanie z pustej listy - optymistyczne
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000005 mikrosekund
+
+Usuwanie z listy - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000010 mikrosekund
+
+Przebudowywanie listy
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000011755 mikrosekund
+
+BIBLIOTEKA DZIELONA
+Tworzenie 1000 elementowego drzewa
+system time 000000000 mikrosekund
+user time 000008000 mikrosekund
+real time 000010492 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000010 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000004 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000170 mikrosekund
+
+Tworzenie listy 100000 elementowej
+system time 000000000 mikrosekund
+user time 000592000 mikrosekund
+real time 000591742 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000117 mikrosekund
+
+Usuwanie z pustej listy - optymistyczne
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000010 mikrosekund
+
+Usuwanie z listy - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000012 mikrosekund
+
+Przebudowywanie listy
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000013712 mikrosekund
+
+BIBLIOTEKA ŁADOWANA DYNAMICZNIE
+IMPLEMENTATION TESTS
+Wstawianie do drzewa 10000 elementow
+system time 000000000 mikrosekund
+user time 000096000 mikrosekund
+real time 000098026 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000010 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000003 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000000 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000168 mikrosekund
+
+Tworzenie 10000 elementowej listy
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000012283 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000015 mikrosekund
+
+Usuwanie z listy -wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000012 mikrosekund
+
+Sortowanie listy 1000 elementowej
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000013259 mikrosekund
+
+BIBLIOTEKA STATYCZNA OPTYMALIZACJA -02
+ 1000 elementowego drzewa
+system time 000000000 mikrosekund
+user time 000028000 mikrosekund
+real time 000027471 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000024 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000000 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000160 mikrosekund
+
+Tworzenie listy 100000 elementowej
+system time 000004000 mikrosekund
+user time 000596000 mikrosekund
+real time 000598464 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000116 mikrosekund
+
+Usuwanie z pustej listy - optymistyczne
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000005 mikrosekund
+
+Usuwanie z listy - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000012 mikrosekund
+
+Przebudowywanie listy
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000014040 mikrosekund
+
+BIBLIOTEKA STATYCZNA OPTYMALIZACJA -04
+Tworzenie 1000 elementowego drzewa
+system time 000004000 mikrosekund
+user time 000020000 mikrosekund
+real time 000023895 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000021 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000160 mikrosekund
+
+Tworzenie listy 100000 elementowej
+system time 000000000 mikrosekund
+user time 000596000 mikrosekund
+real time 000595987 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000120 mikrosekund
+
+Usuwanie z pustej listy - optymistyczne
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000006 mikrosekund
+
+Usuwanie z listy - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000012 mikrosekund
+
+Przebudowywanie listy
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000013648 mikrosekund
+BIBLIOTEKA STATYCZNA -OPTYMALIZACJA Og
+Tworzenie 1000 elementowego drzewa
+system time 000000000 mikrosekund
+user time 000008000 mikrosekund
+real time 000010093 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000010 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000000 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000160 mikrosekund
+
+Tworzenie listy 100000 elementowej
+system time 000000000 mikrosekund
+user time 000592000 mikrosekund
+real time 000592718 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000115 mikrosekund
+
+Usuwanie z pustej listy - optymistyczne
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000005 mikrosekund
+
+Usuwanie z listy - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000012 mikrosekund
+
+Przebudowywanie listy
+system time 000000000 mikrosekund
+user time 000012000 mikrosekund
+real time 000013561 mikrosekund
+
+  Jak widać, zmieniając optymalizację z o1,o2...og, czas wykonywania programu zmniejsza się

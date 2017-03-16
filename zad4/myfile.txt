@@ -1,0 +1,50 @@
+Tworzenie 1000 elementowego drzewa
+system time 000004000 mikrosekund
+user time 000020000 mikrosekund
+real time 000024357 mikrosekund
+
+Dodawanie pojedynczego noda do drzewa 1000 elementowego
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000013 mikrosekund
+
+Usuwanie node z drzewa - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie node z drzewa - wersja optymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000001 mikrosekund
+
+Usuwanie całego drzewa
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000157 mikrosekund
+
+Tworzenie listy 100000 elementowej
+system time 000000000 mikrosekund
+user time 000808000 mikrosekund
+real time 000867418 mikrosekund
+
+Dodawanie pojedynczego noda
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000118 mikrosekund
+
+Usuwanie z pustej listy - optymistyczne
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000007 mikrosekund
+
+Usuwanie z listy - wersja pesymistyczna
+system time 000000000 mikrosekund
+user time 000000000 mikrosekund
+real time 000000012 mikrosekund
+
+Przebudowywanie listy
+system time 000000000 mikrosekund
+user time 000016000 mikrosekund
+real time 000014147 mikrosekund
+
